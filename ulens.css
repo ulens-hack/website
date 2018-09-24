@@ -32,6 +32,16 @@ p {
     margin: 50px auto;
 }
 
+.header {
+    color: white;
+    padding: 50px 0 20px 0;
+    background: #3A60A0;
+
+    background: linear-gradient(to bottom, #3A60A0 0%, #345791 100%);
+
+    width: 100%;
+}
+
 .footer {
     font-size: 9pt;
     margin: 25pt 0 25pt 0;
