@@ -49,3 +49,11 @@ p {
     border-top: 1px solid #aaa;
     color: #aaa;
 }
+
+.skyline {
+    width: 250px;
+    height: 63px;
+    background-image: url(skyline.svg);
+    background-size: cover;
+    margin: 0 auto 25px;
+}
